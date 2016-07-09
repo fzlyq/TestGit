@@ -8,5 +8,6 @@ public class TestGit {
 		System.out.println("d");
 		System.out.println("ddd");
 		System.out.println("dddd");
+		System.out.println("zzzzzz");
 	}
 }
